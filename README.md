@@ -1,3 +1,5 @@
+This is a test for gitea mirror. It was edited in Github via online editor and commiter.
+
 # raspberian-firstboot
 A lightly modified Raspbian-light image with first boot customization.
 
